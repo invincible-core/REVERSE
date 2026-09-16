@@ -13,7 +13,7 @@
 
 ---
 
-<h4><b>CHALLENGE</b></h4>
+<h3><b>CHALLENGE</b></h3>
 
 Each file in this repo is obfuscated and encrypted, and each one has a secret key buried
 somewhere inside it. Your job is to dig it out.
@@ -23,14 +23,10 @@ somewhere inside it. Your job is to dig it out.
 3. Find the key hidden in the decoded output.
 4. Reverse the key, then send it to me on [Discord](https://discord.gg/invincible_core/).
 
----
-
 ### Inside [codes](https://github.com/invincible-core/REVERSE/tree/main/codes)
 
 Fully decrypted source code of some useful tools. No challenge here, just reference
 material: free to read, free to take apart. Browse `codes/` and take what's useful.
-
----
 
 <h4><b>OBFUSCATED FILE</b></h4>
 
@@ -41,23 +37,17 @@ material: free to read, free to take apart. Browse `codes/` and take what's usef
 | **Hardware** | Avoid low-spec devices. May cause lag or a force exit. |
 | **Requires** | Python 3.11 |
 
----
-
 <h4><b>LEVELS</b></h4>
 
 - [x] **Easy** : surface-level encoding, single pass.
 - [x] **Average** : layered, with light anti-analysis noise.
 - [x] **Hard** : nested and stubborn. Take your time with this one.
 
----
-
-<h4 align="center"><b>DESCRIPTION</b></h4>
+<h4><b>DESCRIPTION</b></h4>
 
 > [!NOTE]
-> **All obfuscators belong to their respective copyright owners. Their use here is in
-> accordance with the terms and conditions set by the copyright holders.**
-
----
+> All **obfuscators and compilers** belong to their respective copyright owners. Their use here is in
+> accordance with the terms and conditions set by the copyright holders.
 
 <p align="center">
     Authored by <a href="https://klein-website.github.io/"><b>Muhmmad Hridoy</b></a>
