@@ -1,28 +1,64 @@
-<h4><b>Deobfuscation Instructions</b></h4>
+<h1 align="center">REVERSE</h1>
 
-Decode the attached files and contact the author with the reversed keys.
+<p align="center">
+  Every file hides a key. Find it and send it back.
+</p>
 
-![Obfuscated File](https://github.com/exotic-inx/REVERSE/assets/92029487/977a586c-0640-4ad2-ba24-6488c6c25e65)
+---
 
-### About [codes](https://github.com/cryptonite-core/REVERSE/tree/main/codes)
-No code should be a black box. I decrypt to reveal the inner workings, publishing everything for those who want to learn how it's done.
+> [!IMPORTANT]
+> **Archived. No longer maintained.**
+>Started as a small side project, and it did what it set out to do. Everything still works, and the repo stays
+> up for anyone learning. Issues and PRs are closed. Fork it freely.
 
-<h4><b>OBFUCATED FILE</b></h4>
+---
 
-- Execution may take a moment.
-- Contains no harmful elements.
-- Avoid running on weak devices to prevent lag or force exits.
-- Requires Python 3.11
+<h4><b>CHALLENGE</b></h4>
+
+Each file in this repo is obfuscated and encrypted, and each one has a secret key buried
+somewhere inside it. Your job is to dig it out.
+
+1. Grab a file and pick your level. Easy, Average, or Hard.
+2. Strip the obfuscation until you reach readable source.
+3. Find the key hidden in the decoded output.
+4. Reverse the key, then send it to me on [Discord](https://discord.gg/invincible_core/).
+
+---
+
+### Inside [codes](https://github.com/invincible-core/REVERSE/tree/main/codes)
+
+Fully decrypted source code of some useful tools. No challenge here, just reference
+material: free to read, free to take apart. Browse `codes/` and take what's useful.
+
+---
+
+<h4><b>OBFUSCATED FILE</b></h4>
+
+| Detail | Notes |
+|---|---|
+| **Runtime** | Execution may take a moment. This is expected. |
+| **Safety** | Contains no harmful elements. |
+| **Hardware** | Avoid low-spec devices. May cause lag or a force exit. |
+| **Requires** | Python 3.11 |
+
+---
 
 <h4><b>LEVELS</b></h4>
 
-- [x] Easy
-- [x] Average
-- [x] Hard
+- [x] **Easy** : surface-level encoding, single pass.
+- [x] **Average** : layered, with light anti-analysis noise.
+- [x] **Hard** : nested and stubborn. Take your time with this one.
+
+---
 
 <h4 align="center"><b>DESCRIPTION</b></h4>
 
-> [!NOTE]  
-> ****All the obfuscators are belongs to their copyright owner, and this use is in accordance with the terms and conditions of the copyright holder****.
+> [!NOTE]
+> **All obfuscators belong to their respective copyright owners. Their use here is in
+> accordance with the terms and conditions set by the copyright holders.**
 
-* **Reserved with** [Exotic Hridoy](https://discord.gg/cryptonite_klein/)
+---
+
+<p align="center">
+    Authored by <a href="https://klein-website.github.io/"><b>Muhmmad Hridoy</b></a>
+</p>
